@@ -1,0 +1,21 @@
+# Nutan Plastic Manufacturing Analytics
+
+A data analytics project that analyzes plastic manufacturing data to understand production, quality, machine performance, defects, and downtime.
+
+## Tools Used
+- Python
+- Pandas
+- MySQL
+- Power BI
+
+## Key Analysis
+- Production performance
+- Machine efficiency
+- Product analysis
+- Shift performance
+- Defect and rejection analysis
+- Quality analysis
+- Monthly production trends
+
+## Project Goal
+To analyze manufacturing data and create meaningful insights for better production and quality decisions.
